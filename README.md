@@ -26,4 +26,11 @@
  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
+ 
+<div dir="auto" style="
+    display: flex;
+">
+  <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="650">
+  <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="650">
+  
+</div>
