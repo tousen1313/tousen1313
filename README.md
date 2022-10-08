@@ -11,11 +11,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tousen1313&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/tousen1313/github-readme-stats)
 
-<div>
+<!-- <div> 可視化するとダサいからコメントアウト
   <a href="https://github.com/tousen1313/github-readme-activity-graph">
   <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tousen1313&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
-</div>
+</div> -->
 
 
 ## Skills
@@ -27,10 +27,10 @@
  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
  
-<div dir="auto" style="
-    display: flex;
-">
-  <img src="https://media.giphy.com/media/naiatn5LxTOsU/giphy.gif" width="650">
-  <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="650">
-  
-</div>
+ <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="600">
+ 
+ 
+
+
+
+     <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="650">
