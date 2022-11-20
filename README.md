@@ -2,9 +2,6 @@
   <img src="https://media1.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=ecf05e47k1ubicczeijyqawfgiwi52moisc7vut2fdcd9dik&rid=giphy.gif&ct=g" width="650">
 </div>
 
-<img src="https://github.com/tousen1313/tousen1313/blob/main/HTML5.jpeg">
-
-
 ## Total Viewer👀
 ![Counter](https://profile-counter.glitch.me/tousen1313/count.svg)
 
@@ -35,5 +32,6 @@
 ## Portfolio
 [vanillaHtml](https://tousen1313.github.io/vanillaHtml/ "タイトル")
 
-
+<img src="https://github.com/tousen1313/tousen1313/blob/main/HTML.jpeg"  width="650">
 <img src="https://media.giphy.com/media/bqSkJ4IwNcoZG/giphy.gif" width="650">
+
